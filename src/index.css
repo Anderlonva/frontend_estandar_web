@@ -18,3 +18,19 @@
   color: yellow;
 }
 
+.card-puestos{
+  width: 400px;
+  height: 700px;
+}
+
+.pdf-view{
+  height: 400px;
+}
+
+.nombreHeader{
+  width: 40px;
+}
+
+.container-pdf iframe {
+  width: 100%;
+}
